@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/opcion_crearNotas"
+        android:title="Crear Notas" />
+    <item
+        android:id="@+id/opcion_borrarNotas"
+        android:title="Borrar Notas" />
+</menu>
